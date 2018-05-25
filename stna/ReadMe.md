@@ -1,6 +1,5 @@
-**Author:** Ricky Gall
-**Edited by:** Landsoul (Quetzalcoatl)
-**Version:** 1.07
+**Author:** Ricky Gall  
+**Version:** 1.07  
 **Description:**  
 Addon to enable 1 macro status removal with the help of send.
 
